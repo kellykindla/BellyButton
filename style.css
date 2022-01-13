@@ -3,7 +3,7 @@ body {
     background-color: rgb(255, 255, 255);
 }
 .jumbotron{
-    background-image: ("bacteria.png");
+    background-image: url("https://static.independent.co.uk/2021/10/07/10/iStock-861991888.jpg?width=990&auto=webp&quality=75&crop=982:726,smart");
     background-size: 100% 100%;
     text-align: center;
 }
